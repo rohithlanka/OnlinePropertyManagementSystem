@@ -1,0 +1,58 @@
+﻿@model IEnumerable<MVCClient.Models.Building>
+
+@{
+    ViewData["Title"] = "Details";
+    
+}
+
+
+<h1>Details</h1>
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.building_id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.description)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.address)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.cost)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.building_id)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.description)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.address)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.cost)
+                </td>
+
+            </tr>
+        }
+        
+    </tbody>
+</table>
+<p>
+    @*<a asp-action="Create">Create New</a>*@
+
+    <a class="btn btn-success" href="@Url.Action("GetDetails","AddBuilding")">Add a building for sale</a>
+    <a class="btn btn-success" href="@Url.Action("Index","Building")">Back to menu</a>
+    <a class="btn btn-success" href="@Url.Action("Logout","Login")">signout</a>
+</p>

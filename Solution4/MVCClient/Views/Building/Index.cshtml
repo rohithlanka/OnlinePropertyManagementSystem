@@ -1,0 +1,12 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    ViewData["Title"] = "Index";
+}
+<h4>welcome</h4>
+<p>
+    <a class="btn btn-success" href="@Url.Action("Details","Building")">List of available buildings</a>
+    <a class="btn btn-success" href="@Url.Action("GetDetails","AddBuilding")">Add a building</a>
+    <a class="btn btn-success" href="@Url.Action("Logout","Login")">signout</a>
+</p>

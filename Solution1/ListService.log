@@ -1,0 +1,534 @@
+INFO  04:41:03 Application started. Press Ctrl+C to shut down.
+INFO  04:41:03 Application started. Press Ctrl+C to shut down.
+INFO  04:41:03 Hosting environment: Development
+INFO  04:41:03 Hosting environment: Development
+INFO  04:41:03 Content root path: C:\Users\sairo\source\repos\Solution1\ListService
+INFO  04:41:03 Content root path: C:\Users\sairo\source\repos\Solution1\ListService
+WARN  04:41:03 Failed to determine the https port for redirect.
+WARN  04:41:03 Failed to determine the https port for redirect.
+INFO  04:41:24  Http GET is accesed
+INFO  04:41:26 list is retrieved
+INFO  04:42:33 Application started. Press Ctrl+C to shut down.
+INFO  04:42:33 Application started. Press Ctrl+C to shut down.
+INFO  04:42:33 Hosting environment: Development
+INFO  04:42:33 Hosting environment: Development
+INFO  04:42:33 Content root path: C:\Users\sairo\source\repos\Solution1\ListService
+INFO  04:42:33 Content root path: C:\Users\sairo\source\repos\Solution1\ListService
+WARN  04:42:38 Failed to determine the https port for redirect.
+WARN  04:42:38 Failed to determine the https port for redirect.
+INFO  04:42:53  Http GETbyid is accesed
+INFO  04:42:55 5 building is shown
+INFO  08:46:55 Application started. Press Ctrl+C to shut down.
+INFO  08:46:55 Application started. Press Ctrl+C to shut down.
+INFO  08:46:55 Hosting environment: Development
+INFO  08:46:55 Hosting environment: Development
+INFO  08:46:55 Content root path: C:\Users\sairo\source\repos\Solution1\ListService
+INFO  08:46:55 Content root path: C:\Users\sairo\source\repos\Solution1\ListService
+WARN  08:46:55 Failed to determine the https port for redirect.
+WARN  08:46:55 Failed to determine the https port for redirect.
+INFO  08:47:25  Http GET is accesed
+INFO  08:47:29 list is retrieved
+INFO  08:47:48  Http GETbyid is accesed
+INFO  08:47:48 4 building is shown
+INFO  01:27:02 Application started. Press Ctrl+C to shut down.
+INFO  01:27:02 Application started. Press Ctrl+C to shut down.
+INFO  01:27:02 Hosting environment: Development
+INFO  01:27:02 Hosting environment: Development
+INFO  01:27:02 Content root path: C:\Users\sairo\source\repos\Solution1\ListService
+INFO  01:27:02 Content root path: C:\Users\sairo\source\repos\Solution1\ListService
+WARN  01:27:03 Failed to determine the https port for redirect.
+WARN  01:27:03 Failed to determine the https port for redirect.
+INFO  01:27:32  Http GET is accesed
+INFO  01:27:35 list is retrieved
+INFO  01:27:56  Http GETbyid is accesed
+INFO  01:27:56 5 building is shown
+INFO  11:04:02 Application started. Press Ctrl+C to shut down.
+INFO  11:04:02 Application started. Press Ctrl+C to shut down.
+INFO  11:04:02 Hosting environment: Development
+INFO  11:04:02 Hosting environment: Development
+INFO  11:04:02 Content root path: C:\Users\sairo\source\repos\Solution1\ListService
+INFO  11:04:02 Content root path: C:\Users\sairo\source\repos\Solution1\ListService
+WARN  11:04:02 Failed to determine the https port for redirect.
+WARN  11:04:02 Failed to determine the https port for redirect.
+INFO  11:04:05  Http GET is accesed
+INFO  11:04:12 list is retrieved
+INFO  11:59:27 Application started. Press Ctrl+C to shut down.
+INFO  11:59:27 Application started. Press Ctrl+C to shut down.
+INFO  11:59:27 Hosting environment: Development
+INFO  11:59:27 Hosting environment: Development
+INFO  11:59:27 Content root path: C:\Users\sairo\source\repos\Solution1\ListService
+INFO  11:59:27 Content root path: C:\Users\sairo\source\repos\Solution1\ListService
+WARN  11:59:27 Failed to determine the https port for redirect.
+WARN  11:59:27 Failed to determine the https port for redirect.
+INFO  12:14:00 Application started. Press Ctrl+C to shut down.
+INFO  12:14:00 Application started. Press Ctrl+C to shut down.
+INFO  12:14:00 Hosting environment: Development
+INFO  12:14:00 Hosting environment: Development
+INFO  12:14:00 Content root path: C:\Users\sairo\source\repos\Solution1\ListService
+INFO  12:14:00 Content root path: C:\Users\sairo\source\repos\Solution1\ListService
+WARN  12:14:00 Failed to determine the https port for redirect.
+WARN  12:14:00 Failed to determine the https port for redirect.
+INFO  12:14:13  Http GET is accesed
+INFO  12:14:28 list is retrieved
+INFO  12:25:44 Application started. Press Ctrl+C to shut down.
+INFO  12:25:44 Application started. Press Ctrl+C to shut down.
+INFO  12:25:44 Hosting environment: Development
+INFO  12:25:44 Hosting environment: Development
+INFO  12:25:44 Content root path: C:\Users\sairo\source\repos\Solution1\ListService
+INFO  12:25:44 Content root path: C:\Users\sairo\source\repos\Solution1\ListService
+WARN  12:25:49 Failed to determine the https port for redirect.
+WARN  12:25:49 Failed to determine the https port for redirect.
+INFO  12:47:27 Application started. Press Ctrl+C to shut down.
+INFO  12:47:27 Application started. Press Ctrl+C to shut down.
+INFO  12:47:27 Hosting environment: Development
+INFO  12:47:27 Hosting environment: Development
+INFO  12:47:27 Content root path: C:\Users\sairo\source\repos\Solution1\ListService
+INFO  12:47:27 Content root path: C:\Users\sairo\source\repos\Solution1\ListService
+WARN  12:47:27 Failed to determine the https port for redirect.
+WARN  12:47:27 Failed to determine the https port for redirect.
+INFO  11:16:01 Application started. Press Ctrl+C to shut down.
+INFO  11:16:01 Application started. Press Ctrl+C to shut down.
+INFO  11:16:01 Hosting environment: Development
+INFO  11:16:01 Hosting environment: Development
+INFO  11:16:01 Content root path: C:\Users\sairo\source\repos\Solution1\ListService
+INFO  11:16:01 Content root path: C:\Users\sairo\source\repos\Solution1\ListService
+WARN  11:16:01 Failed to determine the https port for redirect.
+WARN  11:16:01 Failed to determine the https port for redirect.
+INFO  11:20:18 Application started. Press Ctrl+C to shut down.
+INFO  11:20:18 Application started. Press Ctrl+C to shut down.
+INFO  11:20:18 Hosting environment: Development
+INFO  11:20:18 Hosting environment: Development
+INFO  11:20:18 Content root path: C:\Users\sairo\source\repos\Solution1\ListService
+INFO  11:20:18 Content root path: C:\Users\sairo\source\repos\Solution1\ListService
+WARN  11:20:18 Failed to determine the https port for redirect.
+WARN  11:20:18 Failed to determine the https port for redirect.
+INFO  11:49:30 Application started. Press Ctrl+C to shut down.
+INFO  11:49:30 Application started. Press Ctrl+C to shut down.
+INFO  11:49:30 Hosting environment: Development
+INFO  11:49:30 Hosting environment: Development
+INFO  11:49:30 Content root path: C:\Users\sairo\source\repos\Solution1\ListService
+INFO  11:49:30 Content root path: C:\Users\sairo\source\repos\Solution1\ListService
+WARN  11:49:31 Failed to determine the https port for redirect.
+WARN  11:49:31 Failed to determine the https port for redirect.
+INFO  11:58:24 Application started. Press Ctrl+C to shut down.
+INFO  11:58:24 Application started. Press Ctrl+C to shut down.
+INFO  11:58:24 Hosting environment: Development
+INFO  11:58:24 Hosting environment: Development
+INFO  11:58:24 Content root path: C:\Users\sairo\source\repos\Solution1\ListService
+INFO  11:58:24 Content root path: C:\Users\sairo\source\repos\Solution1\ListService
+WARN  11:58:24 Failed to determine the https port for redirect.
+WARN  11:58:24 Failed to determine the https port for redirect.
+INFO  12:47:22 Application started. Press Ctrl+C to shut down.
+INFO  12:47:22 Application started. Press Ctrl+C to shut down.
+INFO  12:47:22 Hosting environment: Development
+INFO  12:47:22 Hosting environment: Development
+INFO  12:47:22 Content root path: C:\Users\sairo\source\repos\Solution1\ListService
+INFO  12:47:22 Content root path: C:\Users\sairo\source\repos\Solution1\ListService
+WARN  12:47:22 Failed to determine the https port for redirect.
+WARN  12:47:22 Failed to determine the https port for redirect.
+INFO  12:58:53 Application started. Press Ctrl+C to shut down.
+INFO  12:58:53 Application started. Press Ctrl+C to shut down.
+INFO  12:58:53 Hosting environment: Development
+INFO  12:58:53 Hosting environment: Development
+INFO  12:58:53 Content root path: C:\Users\sairo\source\repos\Solution1\ListService
+INFO  12:58:53 Content root path: C:\Users\sairo\source\repos\Solution1\ListService
+WARN  12:58:53 Failed to determine the https port for redirect.
+WARN  12:58:53 Failed to determine the https port for redirect.
+INFO  01:14:10 Application started. Press Ctrl+C to shut down.
+INFO  01:14:10 Application started. Press Ctrl+C to shut down.
+INFO  01:14:10 Hosting environment: Development
+INFO  01:14:10 Hosting environment: Development
+INFO  01:14:10 Content root path: C:\Users\sairo\source\repos\Solution1\ListService
+INFO  01:14:10 Content root path: C:\Users\sairo\source\repos\Solution1\ListService
+WARN  01:14:10 Failed to determine the https port for redirect.
+WARN  01:14:10 Failed to determine the https port for redirect.
+INFO  01:14:31  Http GET is accesed
+INFO  01:14:33 list is retrieved
+INFO  01:38:28 Application started. Press Ctrl+C to shut down.
+INFO  01:38:28 Application started. Press Ctrl+C to shut down.
+INFO  01:38:28 Hosting environment: Development
+INFO  01:38:28 Hosting environment: Development
+INFO  01:38:28 Content root path: C:\Users\sairo\source\repos\Solution1\ListService
+INFO  01:38:28 Content root path: C:\Users\sairo\source\repos\Solution1\ListService
+WARN  01:38:28 Failed to determine the https port for redirect.
+WARN  01:38:28 Failed to determine the https port for redirect.
+ERROR 01:38:58 An unhandled exception has occurred while executing the request.
+System.ArgumentNullException: String reference not set to an instance of a String. (Parameter 's')
+   at System.Text.Encoding.GetBytes(String s)
+   at ListService.Startup.<ConfigureServices>b__5_0(JwtBearerOptions options) in C:\Users\sairo\source\repos\Solution1\ListService\Startup.cs:line 39
+   at Microsoft.Extensions.Options.ConfigureNamedOptions`1.Configure(String name, TOptions options)
+   at Microsoft.Extensions.Options.OptionsFactory`1.Create(String name)
+   at Microsoft.Extensions.Options.OptionsMonitor`1.<>c__DisplayClass11_0.<Get>b__0()
+   at System.Lazy`1.ViaFactory(LazyThreadSafetyMode mode)
+   at System.Lazy`1.ExecutionAndPublication(LazyHelper executionAndPublication, Boolean useDefaultConstructor)
+   at System.Lazy`1.CreateValue()
+   at System.Lazy`1.get_Value()
+   at Microsoft.Extensions.Options.OptionsCache`1.GetOrAdd(String name, Func`1 createOptions)
+   at Microsoft.Extensions.Options.OptionsMonitor`1.Get(String name)
+   at Microsoft.AspNetCore.Authentication.AuthenticationHandler`1.InitializeAsync(AuthenticationScheme scheme, HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationHandlerProvider.GetHandlerAsync(HttpContext context, String authenticationScheme)
+   at Microsoft.AspNetCore.Authentication.AuthenticationService.AuthenticateAsync(HttpContext context, String scheme)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 01:38:58 An unhandled exception has occurred while executing the request.
+System.ArgumentNullException: String reference not set to an instance of a String. (Parameter 's')
+   at System.Text.Encoding.GetBytes(String s)
+   at ListService.Startup.<ConfigureServices>b__5_0(JwtBearerOptions options) in C:\Users\sairo\source\repos\Solution1\ListService\Startup.cs:line 39
+   at Microsoft.Extensions.Options.ConfigureNamedOptions`1.Configure(String name, TOptions options)
+   at Microsoft.Extensions.Options.OptionsFactory`1.Create(String name)
+   at Microsoft.Extensions.Options.OptionsMonitor`1.<>c__DisplayClass11_0.<Get>b__0()
+   at System.Lazy`1.ViaFactory(LazyThreadSafetyMode mode)
+   at System.Lazy`1.ExecutionAndPublication(LazyHelper executionAndPublication, Boolean useDefaultConstructor)
+   at System.Lazy`1.CreateValue()
+   at System.Lazy`1.get_Value()
+   at Microsoft.Extensions.Options.OptionsCache`1.GetOrAdd(String name, Func`1 createOptions)
+   at Microsoft.Extensions.Options.OptionsMonitor`1.Get(String name)
+   at Microsoft.AspNetCore.Authentication.AuthenticationHandler`1.InitializeAsync(AuthenticationScheme scheme, HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationHandlerProvider.GetHandlerAsync(HttpContext context, String authenticationScheme)
+   at Microsoft.AspNetCore.Authentication.AuthenticationService.AuthenticateAsync(HttpContext context, String scheme)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 01:39:10 An unhandled exception has occurred while executing the request.
+System.ArgumentNullException: String reference not set to an instance of a String. (Parameter 's')
+   at System.Text.Encoding.GetBytes(String s)
+   at ListService.Startup.<ConfigureServices>b__5_0(JwtBearerOptions options) in C:\Users\sairo\source\repos\Solution1\ListService\Startup.cs:line 39
+   at Microsoft.Extensions.Options.ConfigureNamedOptions`1.Configure(String name, TOptions options)
+   at Microsoft.Extensions.Options.OptionsFactory`1.Create(String name)
+   at Microsoft.Extensions.Options.OptionsMonitor`1.<>c__DisplayClass11_0.<Get>b__0()
+   at System.Lazy`1.ViaFactory(LazyThreadSafetyMode mode)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Lazy`1.CreateValue()
+   at System.Lazy`1.get_Value()
+   at Microsoft.Extensions.Options.OptionsCache`1.GetOrAdd(String name, Func`1 createOptions)
+   at Microsoft.Extensions.Options.OptionsMonitor`1.Get(String name)
+   at Microsoft.AspNetCore.Authentication.AuthenticationHandler`1.InitializeAsync(AuthenticationScheme scheme, HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationHandlerProvider.GetHandlerAsync(HttpContext context, String authenticationScheme)
+   at Microsoft.AspNetCore.Authentication.AuthenticationService.AuthenticateAsync(HttpContext context, String scheme)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 01:39:10 An unhandled exception has occurred while executing the request.
+System.ArgumentNullException: String reference not set to an instance of a String. (Parameter 's')
+   at System.Text.Encoding.GetBytes(String s)
+   at ListService.Startup.<ConfigureServices>b__5_0(JwtBearerOptions options) in C:\Users\sairo\source\repos\Solution1\ListService\Startup.cs:line 39
+   at Microsoft.Extensions.Options.ConfigureNamedOptions`1.Configure(String name, TOptions options)
+   at Microsoft.Extensions.Options.OptionsFactory`1.Create(String name)
+   at Microsoft.Extensions.Options.OptionsMonitor`1.<>c__DisplayClass11_0.<Get>b__0()
+   at System.Lazy`1.ViaFactory(LazyThreadSafetyMode mode)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Lazy`1.CreateValue()
+   at System.Lazy`1.get_Value()
+   at Microsoft.Extensions.Options.OptionsCache`1.GetOrAdd(String name, Func`1 createOptions)
+   at Microsoft.Extensions.Options.OptionsMonitor`1.Get(String name)
+   at Microsoft.AspNetCore.Authentication.AuthenticationHandler`1.InitializeAsync(AuthenticationScheme scheme, HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationHandlerProvider.GetHandlerAsync(HttpContext context, String authenticationScheme)
+   at Microsoft.AspNetCore.Authentication.AuthenticationService.AuthenticateAsync(HttpContext context, String scheme)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+INFO  01:40:23 Application started. Press Ctrl+C to shut down.
+INFO  01:40:23 Application started. Press Ctrl+C to shut down.
+INFO  01:40:23 Hosting environment: Development
+INFO  01:40:23 Hosting environment: Development
+INFO  01:40:23 Content root path: C:\Users\sairo\source\repos\Solution1\ListService
+INFO  01:40:23 Content root path: C:\Users\sairo\source\repos\Solution1\ListService
+WARN  01:40:23 Failed to determine the https port for redirect.
+WARN  01:40:23 Failed to determine the https port for redirect.
+INFO  01:50:10 Application started. Press Ctrl+C to shut down.
+INFO  01:50:10 Application started. Press Ctrl+C to shut down.
+INFO  01:50:10 Hosting environment: Development
+INFO  01:50:10 Hosting environment: Development
+INFO  01:50:10 Content root path: C:\Users\sairo\source\repos\Solution1\ListService
+INFO  01:50:10 Content root path: C:\Users\sairo\source\repos\Solution1\ListService
+WARN  01:50:10 Failed to determine the https port for redirect.
+WARN  01:50:10 Failed to determine the https port for redirect.
+INFO  01:51:22  Http GET is accesed
+INFO  01:51:27 list is retrieved
+INFO  01:56:09 Application started. Press Ctrl+C to shut down.
+INFO  01:56:09 Application started. Press Ctrl+C to shut down.
+INFO  01:56:09 Hosting environment: Development
+INFO  01:56:09 Hosting environment: Development
+INFO  01:56:09 Content root path: C:\Users\sairo\source\repos\Solution1\ListService
+INFO  01:56:09 Content root path: C:\Users\sairo\source\repos\Solution1\ListService
+WARN  01:56:09 Failed to determine the https port for redirect.
+WARN  01:56:09 Failed to determine the https port for redirect.
+INFO  02:19:53 Application started. Press Ctrl+C to shut down.
+INFO  02:19:53 Application started. Press Ctrl+C to shut down.
+INFO  02:19:53 Hosting environment: Development
+INFO  02:19:53 Hosting environment: Development
+INFO  02:19:53 Content root path: C:\Users\sairo\source\repos\Solution1\ListService
+INFO  02:19:53 Content root path: C:\Users\sairo\source\repos\Solution1\ListService
+WARN  02:19:53 Failed to determine the https port for redirect.
+WARN  02:19:53 Failed to determine the https port for redirect.
+INFO  03:10:03 Application started. Press Ctrl+C to shut down.
+INFO  03:10:03 Application started. Press Ctrl+C to shut down.
+INFO  03:10:03 Hosting environment: Development
+INFO  03:10:03 Hosting environment: Development
+INFO  03:10:03 Content root path: C:\Users\sairo\source\repos\Solution1\ListService
+INFO  03:10:03 Content root path: C:\Users\sairo\source\repos\Solution1\ListService
+WARN  03:10:03 Failed to determine the https port for redirect.
+WARN  03:10:03 Failed to determine the https port for redirect.
+INFO  09:09:57 Application started. Press Ctrl+C to shut down.
+INFO  09:09:57 Application started. Press Ctrl+C to shut down.
+INFO  09:09:57 Hosting environment: Development
+INFO  09:09:57 Hosting environment: Development
+INFO  09:09:57 Content root path: C:\Users\sairo\source\repos\Solution1\ListService
+INFO  09:09:57 Content root path: C:\Users\sairo\source\repos\Solution1\ListService
+WARN  09:09:58 Failed to determine the https port for redirect.
+WARN  09:09:58 Failed to determine the https port for redirect.
+INFO  09:16:45 Application started. Press Ctrl+C to shut down.
+INFO  09:16:45 Application started. Press Ctrl+C to shut down.
+INFO  09:16:45 Hosting environment: Development
+INFO  09:16:45 Hosting environment: Development
+INFO  09:16:45 Content root path: C:\Users\sairo\source\repos\Solution1\ListService
+INFO  09:16:45 Content root path: C:\Users\sairo\source\repos\Solution1\ListService
+WARN  09:16:45 Failed to determine the https port for redirect.
+WARN  09:16:45 Failed to determine the https port for redirect.
+ERROR 09:17:38 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: No authenticationScheme was specified, and there was no DefaultChallengeScheme found. The default schemes can be set using either AddAuthentication(string defaultScheme) or AddAuthentication(Action<AuthenticationOptions> configureOptions).
+   at Microsoft.AspNetCore.Authentication.AuthenticationService.ChallengeAsync(HttpContext context, String scheme, AuthenticationProperties properties)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 09:17:38 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: No authenticationScheme was specified, and there was no DefaultChallengeScheme found. The default schemes can be set using either AddAuthentication(string defaultScheme) or AddAuthentication(Action<AuthenticationOptions> configureOptions).
+   at Microsoft.AspNetCore.Authentication.AuthenticationService.ChallengeAsync(HttpContext context, String scheme, AuthenticationProperties properties)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 09:19:12 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: No authenticationScheme was specified, and there was no DefaultChallengeScheme found. The default schemes can be set using either AddAuthentication(string defaultScheme) or AddAuthentication(Action<AuthenticationOptions> configureOptions).
+   at Microsoft.AspNetCore.Authentication.AuthenticationService.ChallengeAsync(HttpContext context, String scheme, AuthenticationProperties properties)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 09:19:12 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: No authenticationScheme was specified, and there was no DefaultChallengeScheme found. The default schemes can be set using either AddAuthentication(string defaultScheme) or AddAuthentication(Action<AuthenticationOptions> configureOptions).
+   at Microsoft.AspNetCore.Authentication.AuthenticationService.ChallengeAsync(HttpContext context, String scheme, AuthenticationProperties properties)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+INFO  09:30:22 Application started. Press Ctrl+C to shut down.
+INFO  09:30:22 Application started. Press Ctrl+C to shut down.
+INFO  09:30:22 Hosting environment: Development
+INFO  09:30:22 Hosting environment: Development
+INFO  09:30:22 Content root path: C:\Users\sairo\source\repos\Solution1\ListService
+INFO  09:30:22 Content root path: C:\Users\sairo\source\repos\Solution1\ListService
+WARN  09:30:22 Failed to determine the https port for redirect.
+WARN  09:30:22 Failed to determine the https port for redirect.
+INFO  09:50:35 Application started. Press Ctrl+C to shut down.
+INFO  09:50:35 Application started. Press Ctrl+C to shut down.
+INFO  09:50:35 Hosting environment: Development
+INFO  09:50:35 Hosting environment: Development
+INFO  09:50:35 Content root path: C:\Users\sairo\source\repos\Solution1\ListService
+INFO  09:50:35 Content root path: C:\Users\sairo\source\repos\Solution1\ListService
+WARN  09:50:35 Failed to determine the https port for redirect.
+WARN  09:50:35 Failed to determine the https port for redirect.
+INFO  09:53:59  Http GET is accesed
+INFO  09:54:07 list is retrieved
+INFO  10:08:23 Application started. Press Ctrl+C to shut down.
+INFO  10:08:23 Application started. Press Ctrl+C to shut down.
+INFO  10:08:23 Hosting environment: Development
+INFO  10:08:23 Hosting environment: Development
+INFO  10:08:23 Content root path: C:\Users\sairo\source\repos\Solution1\ListService
+INFO  10:08:23 Content root path: C:\Users\sairo\source\repos\Solution1\ListService
+WARN  10:08:23 Failed to determine the https port for redirect.
+WARN  10:08:23 Failed to determine the https port for redirect.
+INFO  10:28:43 Application started. Press Ctrl+C to shut down.
+INFO  10:28:43 Application started. Press Ctrl+C to shut down.
+INFO  10:28:43 Hosting environment: Development
+INFO  10:28:43 Hosting environment: Development
+INFO  10:28:43 Content root path: C:\Users\sairo\source\repos\Solution1\ListService
+INFO  10:28:43 Content root path: C:\Users\sairo\source\repos\Solution1\ListService
+WARN  10:28:43 Failed to determine the https port for redirect.
+WARN  10:28:43 Failed to determine the https port for redirect.
+INFO  10:29:02  Http GET is accesed
+INFO  10:29:26 list is retrieved
+INFO  10:30:30 Application started. Press Ctrl+C to shut down.
+INFO  10:30:30 Application started. Press Ctrl+C to shut down.
+INFO  10:30:30 Hosting environment: Development
+INFO  10:30:30 Hosting environment: Development
+INFO  10:30:30 Content root path: C:\Users\sairo\source\repos\Solution1\ListService
+INFO  10:30:30 Content root path: C:\Users\sairo\source\repos\Solution1\ListService
+WARN  10:30:35 Failed to determine the https port for redirect.
+WARN  10:30:35 Failed to determine the https port for redirect.
+INFO  10:34:38  Http GET is accesed
+INFO  10:34:41 list is retrieved
+INFO  10:35:37  Http GET is accesed
+INFO  10:35:37 list is retrieved
+INFO  11:28:57 Application started. Press Ctrl+C to shut down.
+INFO  11:28:57 Application started. Press Ctrl+C to shut down.
+INFO  11:28:57 Hosting environment: Development
+INFO  11:28:57 Hosting environment: Development
+INFO  11:28:57 Content root path: C:\Users\sairo\source\repos\Solution1\ListService
+INFO  11:28:57 Content root path: C:\Users\sairo\source\repos\Solution1\ListService
+WARN  11:28:57 Failed to determine the https port for redirect.
+WARN  11:28:57 Failed to determine the https port for redirect.
+INFO  11:29:39  Http GET is accesed
+INFO  11:29:41 list is retrieved
+INFO  11:44:58 Application started. Press Ctrl+C to shut down.
+INFO  11:44:58 Application started. Press Ctrl+C to shut down.
+INFO  11:44:58 Hosting environment: Development
+INFO  11:44:58 Hosting environment: Development
+INFO  11:44:58 Content root path: C:\Users\sairo\source\repos\Solution1\ListService
+INFO  11:44:58 Content root path: C:\Users\sairo\source\repos\Solution1\ListService
+WARN  11:44:59 Failed to determine the https port for redirect.
+WARN  11:44:59 Failed to determine the https port for redirect.
+INFO  11:45:59  Http GET is accesed
+INFO  11:46:01 list is retrieved
+INFO  11:46:36  Http GET is accesed
+INFO  11:46:36 list is retrieved
+INFO  11:48:28  Http GET is accesed
+INFO  11:48:28 list is retrieved
+INFO  11:48:44  Http GET is accesed
+INFO  11:48:44 list is retrieved
+INFO  12:04:01 Application started. Press Ctrl+C to shut down.
+INFO  12:04:01 Application started. Press Ctrl+C to shut down.
+INFO  12:04:01 Hosting environment: Development
+INFO  12:04:01 Hosting environment: Development
+INFO  12:04:01 Content root path: C:\Users\sairo\source\repos\Solution1\ListService
+INFO  12:04:01 Content root path: C:\Users\sairo\source\repos\Solution1\ListService
+WARN  12:04:01 Failed to determine the https port for redirect.
+WARN  12:04:01 Failed to determine the https port for redirect.
+INFO  12:04:18  Http GET is accesed
+INFO  12:04:26 list is retrieved
+INFO  12:47:41 Application started. Press Ctrl+C to shut down.
+INFO  12:47:41 Application started. Press Ctrl+C to shut down.
+INFO  12:47:41 Hosting environment: Development
+INFO  12:47:41 Hosting environment: Development
+INFO  12:47:41 Content root path: C:\Users\sairo\source\repos\Solution1\ListService
+INFO  12:47:41 Content root path: C:\Users\sairo\source\repos\Solution1\ListService
+WARN  12:47:41 Failed to determine the https port for redirect.
+WARN  12:47:41 Failed to determine the https port for redirect.
+INFO  12:49:02  Http GET is accesed
+INFO  12:49:05 list is retrieved
+INFO  12:51:53  Http GET is accesed
+INFO  12:51:53 list is retrieved
+INFO  12:56:30  Http GET is accesed
+INFO  12:56:30 list is retrieved
+INFO  01:01:46  Http GET is accesed
+INFO  01:01:46 list is retrieved
+INFO  01:02:24  Http GET is accesed
+INFO  01:02:24 list is retrieved
+INFO  01:02:43  Http GET is accesed
+INFO  01:02:43 list is retrieved
+INFO  01:02:49  Http GET is accesed
+INFO  01:02:49 list is retrieved
+INFO  01:03:03  Http GET is accesed
+INFO  01:03:03 list is retrieved
+INFO  01:06:56  Http GET is accesed
+INFO  01:06:56 list is retrieved
+INFO  01:12:20  Http GET is accesed
+INFO  01:12:20 list is retrieved
+INFO  01:13:46  Http GET is accesed
+INFO  01:13:46 list is retrieved
+INFO  01:16:07  Http GET is accesed
+INFO  01:16:07 list is retrieved
+INFO  01:16:53  Http GET is accesed
+INFO  01:16:53 list is retrieved
+INFO  06:25:09 Application started. Press Ctrl+C to shut down.
+INFO  06:25:09 Application started. Press Ctrl+C to shut down.
+INFO  06:25:09 Hosting environment: Development
+INFO  06:25:09 Hosting environment: Development
+INFO  06:25:09 Content root path: C:\Users\sairo\source\repos\Solution1\ListService
+INFO  06:25:09 Content root path: C:\Users\sairo\source\repos\Solution1\ListService
+WARN  06:25:09 Failed to determine the https port for redirect.
+WARN  06:25:09 Failed to determine the https port for redirect.
+INFO  06:35:46  Http GET is accesed
+INFO  06:35:53 list is retrieved
+INFO  06:36:50  Http GET is accesed
+INFO  06:36:50 list is retrieved
+INFO  06:55:11 Application started. Press Ctrl+C to shut down.
+INFO  06:55:11 Application started. Press Ctrl+C to shut down.
+INFO  06:55:11 Hosting environment: Development
+INFO  06:55:11 Hosting environment: Development
+INFO  06:55:11 Content root path: C:\Users\sairo\source\repos\Solution1\ListService
+INFO  06:55:11 Content root path: C:\Users\sairo\source\repos\Solution1\ListService
+WARN  06:55:12 Failed to determine the https port for redirect.
+WARN  06:55:12 Failed to determine the https port for redirect.
+INFO  07:09:42 Application started. Press Ctrl+C to shut down.
+INFO  07:09:42 Application started. Press Ctrl+C to shut down.
+INFO  07:09:42 Hosting environment: Development
+INFO  07:09:42 Hosting environment: Development
+INFO  07:09:42 Content root path: C:\Users\sairo\source\repos\Solution1\ListService
+INFO  07:09:42 Content root path: C:\Users\sairo\source\repos\Solution1\ListService
+WARN  07:09:43 Failed to determine the https port for redirect.
+WARN  07:09:43 Failed to determine the https port for redirect.
+INFO  07:12:33  Http GET is accesed
+INFO  07:12:36 list is retrieved
+INFO  07:26:12  Http GET is accesed
+INFO  07:26:12 list is retrieved
+INFO  07:26:44  Http GET is accesed
+INFO  07:26:44 list is retrieved
+INFO  07:30:19  Http GET is accesed
+INFO  07:30:19 list is retrieved
+INFO  07:30:47  Http GET is accesed
+INFO  07:30:47 list is retrieved
+INFO  07:58:52  Http GET is accesed
+INFO  07:58:52 list is retrieved
+INFO  08:49:33 Application started. Press Ctrl+C to shut down.
+INFO  08:49:33 Application started. Press Ctrl+C to shut down.
+INFO  08:49:33 Hosting environment: Development
+INFO  08:49:33 Hosting environment: Development
+INFO  08:49:33 Content root path: C:\Users\sairo\source\repos\Solution1\ListService
+INFO  08:49:33 Content root path: C:\Users\sairo\source\repos\Solution1\ListService
+WARN  08:49:33 Failed to determine the https port for redirect.
+WARN  08:49:33 Failed to determine the https port for redirect.
+INFO  08:50:47  Http GET is accesed
+INFO  08:50:50 list is retrieved
+INFO  11:01:57 Application started. Press Ctrl+C to shut down.
+INFO  11:01:57 Application started. Press Ctrl+C to shut down.
+INFO  11:01:57 Hosting environment: Development
+INFO  11:01:57 Hosting environment: Development
+INFO  11:01:57 Content root path: C:\Users\sairo\source\repos\Solution1\ListService
+INFO  11:01:57 Content root path: C:\Users\sairo\source\repos\Solution1\ListService
+WARN  11:01:57 Failed to determine the https port for redirect.
+WARN  11:01:57 Failed to determine the https port for redirect.
+INFO  11:08:58  Http GET is accesed
+INFO  11:09:01 list is retrieved
+INFO  11:33:39 Application started. Press Ctrl+C to shut down.
+INFO  11:33:39 Application started. Press Ctrl+C to shut down.
+INFO  11:33:39 Hosting environment: Development
+INFO  11:33:39 Hosting environment: Development
+INFO  11:33:39 Content root path: C:\Users\sairo\source\repos\Solution1\ListService
+INFO  11:33:39 Content root path: C:\Users\sairo\source\repos\Solution1\ListService
+WARN  11:33:39 Failed to determine the https port for redirect.
+WARN  11:33:39 Failed to determine the https port for redirect.
+INFO  11:42:06  Http GET is accesed
+INFO  11:42:09 list is retrieved
+INFO  11:48:19  Http GET is accesed
+INFO  11:48:19 list is retrieved
+INFO  11:49:02  Http GET is accesed
+INFO  11:49:02 list is retrieved
+INFO  11:55:36  Http GET is accesed
+INFO  11:55:36 list is retrieved
+INFO  01:16:09 Application started. Press Ctrl+C to shut down.
+INFO  01:16:09 Application started. Press Ctrl+C to shut down.
+INFO  01:16:10 Hosting environment: Development
+INFO  01:16:10 Hosting environment: Development
+INFO  01:16:10 Content root path: C:\Users\sairo\source\repos\Solution1\ListService
+INFO  01:16:10 Content root path: C:\Users\sairo\source\repos\Solution1\ListService
+WARN  01:16:10 Failed to determine the https port for redirect.
+WARN  01:16:10 Failed to determine the https port for redirect.
+INFO  01:19:58  Http GET is accesed
+INFO  01:20:01 list is retrieved
+INFO  02:11:59 Application started. Press Ctrl+C to shut down.
+INFO  02:11:59 Application started. Press Ctrl+C to shut down.
+INFO  02:12:00 Hosting environment: Development
+INFO  02:12:00 Hosting environment: Development
+INFO  02:12:00 Content root path: C:\Users\sairo\source\repos\OnlinePropertyManagementSystem\Solution1\ListService
+INFO  02:12:00 Content root path: C:\Users\sairo\source\repos\OnlinePropertyManagementSystem\Solution1\ListService
+WARN  02:12:01 Failed to determine the https port for redirect.
+WARN  02:12:01 Failed to determine the https port for redirect.
+INFO  02:12:12  Http GETbyid is accesed
+INFO  02:12:15 3 building is shown
