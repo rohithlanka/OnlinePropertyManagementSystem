@@ -4,11 +4,13 @@ using System.Linq;
 using System.Threading.Tasks;
 using AddBuildingService.Models;
 using AddBuildingService.Repository;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
 namespace AddBuildingService.Controllers
 {
+    [Authorize]
     [Route("api/[controller]")]
     [ApiController]
     public class AddBuildingController : ControllerBase
@@ -20,6 +22,7 @@ namespace AddBuildingService.Controllers
             _buildingRepository = buildingRepository;
         }
         [HttpPost]
+        
         public IActionResult Post([FromBody] Building building)
         {
             try

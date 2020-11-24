@@ -532,3 +532,17 @@ WARN  02:12:01 Failed to determine the https port for redirect.
 WARN  02:12:01 Failed to determine the https port for redirect.
 INFO  02:12:12  Http GETbyid is accesed
 INFO  02:12:15 3 building is shown
+INFO  07:27:09 Application started. Press Ctrl+C to shut down.
+INFO  07:27:09 Application started. Press Ctrl+C to shut down.
+INFO  07:27:09 Hosting environment: Development
+INFO  07:27:09 Hosting environment: Development
+INFO  07:27:09 Content root path: C:\Users\sairo\source\repos\OnlinePropertyManagementSystem\Solution1\ListService
+INFO  07:27:09 Content root path: C:\Users\sairo\source\repos\OnlinePropertyManagementSystem\Solution1\ListService
+WARN  07:27:09 Failed to determine the https port for redirect.
+WARN  07:27:09 Failed to determine the https port for redirect.
+INFO  07:28:53  Http GET is accesed
+INFO  07:28:55 list is retrieved
+INFO  07:29:18  Http GET is accesed
+INFO  07:29:18 list is retrieved
+INFO  07:30:11  Http GET is accesed
+INFO  07:30:11 list is retrieved

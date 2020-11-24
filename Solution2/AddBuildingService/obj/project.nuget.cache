@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "W+wOH3U4NkqzAqnFIpNgczwwCne94gQqF1VZDkOIyzZ5xqg2uqCSiVQrOdOxEjFleLK7oHbQDlTcXrqGtp4yFg==",
+  "dgSpecHash": "RBgrbM5GEt5E6koEkMyh7lIviYhivZ6O16IeA3zFRA2xBhedQ8VW7AUmDarz8IqE6Nvg0FM5a4jGqVXKPFUqBw==",
   "success": true,
   "projectFilePath": "C:\\Users\\sairo\\source\\repos\\OnlinePropertyManagementSystem\\Solution2\\AddBuildingService\\AddBuildingService.csproj",
   "expectedPackageFiles": [
@@ -10,6 +10,7 @@
     "C:\\Users\\sairo\\.nuget\\packages\\microsoft.aspnet.webapi.client\\4.0.20710\\microsoft.aspnet.webapi.client.4.0.20710.nupkg.sha512",
     "C:\\Users\\sairo\\.nuget\\packages\\microsoft.aspnet.webapi.core\\4.0.20710\\microsoft.aspnet.webapi.core.4.0.20710.nupkg.sha512",
     "C:\\Users\\sairo\\.nuget\\packages\\microsoft.aspnet.webapi.webhost\\4.0.20710\\microsoft.aspnet.webapi.webhost.4.0.20710.nupkg.sha512",
+    "C:\\Users\\sairo\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\3.1.10\\microsoft.aspnetcore.authentication.jwtbearer.3.1.10.nupkg.sha512",
     "C:\\Users\\sairo\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\sairo\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",
     "C:\\Users\\sairo\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\2.0.1\\microsoft.data.sqlclient.sni.runtime.2.0.1.nupkg.sha512",

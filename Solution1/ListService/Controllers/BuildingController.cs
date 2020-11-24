@@ -10,7 +10,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace ListService.Controllers
 {
-    
+    [Authorize]
     [Route("api/[controller]")]
     [ApiController]
     public class BuildingController : ControllerBase

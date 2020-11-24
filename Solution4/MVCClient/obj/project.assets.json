@@ -6715,11 +6715,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sairo\\source\\repos\\Solution4\\MVCClient\\MVCClient.csproj",
+      "projectUniqueName": "C:\\Users\\sairo\\source\\repos\\OnlinePropertyManagementSystem\\Solution4\\MVCClient\\MVCClient.csproj",
       "projectName": "MVCClient",
-      "projectPath": "C:\\Users\\sairo\\source\\repos\\Solution4\\MVCClient\\MVCClient.csproj",
+      "projectPath": "C:\\Users\\sairo\\source\\repos\\OnlinePropertyManagementSystem\\Solution4\\MVCClient\\MVCClient.csproj",
       "packagesPath": "C:\\Users\\sairo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sairo\\source\\repos\\Solution4\\MVCClient\\obj\\",
+      "outputPath": "C:\\Users\\sairo\\source\\repos\\OnlinePropertyManagementSystem\\Solution4\\MVCClient\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

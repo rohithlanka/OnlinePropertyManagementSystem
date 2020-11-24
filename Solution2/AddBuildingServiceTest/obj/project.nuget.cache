@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "veF0v/mfDU4CQ/+HV/r+3XVLUMTJOLmY/8hFU6l3xhjt0F4xCNJGbaLl6qxaTq/KcrXvSKRJAdobAkSpDlxjdg==",
+  "dgSpecHash": "P8RtkKx6ibenaxd/enE7J2gwpRSPv60AfSubIA+nJeuCbUrCnf7h+VIF0+WOSLEyzF5d1NjQN+xYV+lcXAzIaQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\sairo\\source\\repos\\OnlinePropertyManagementSystem\\Solution2\\AddBuildingServiceTest\\AddBuildingServiceTest.csproj",
   "expectedPackageFiles": [
@@ -9,6 +9,7 @@
     "C:\\Users\\sairo\\.nuget\\packages\\microsoft.aspnet.webapi.client\\4.0.20710\\microsoft.aspnet.webapi.client.4.0.20710.nupkg.sha512",
     "C:\\Users\\sairo\\.nuget\\packages\\microsoft.aspnet.webapi.core\\4.0.20710\\microsoft.aspnet.webapi.core.4.0.20710.nupkg.sha512",
     "C:\\Users\\sairo\\.nuget\\packages\\microsoft.aspnet.webapi.webhost\\4.0.20710\\microsoft.aspnet.webapi.webhost.4.0.20710.nupkg.sha512",
+    "C:\\Users\\sairo\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\3.1.10\\microsoft.aspnetcore.authentication.jwtbearer.3.1.10.nupkg.sha512",
     "C:\\Users\\sairo\\.nuget\\packages\\microsoft.codecoverage\\16.4.0\\microsoft.codecoverage.16.4.0.nupkg.sha512",
     "C:\\Users\\sairo\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\sairo\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",

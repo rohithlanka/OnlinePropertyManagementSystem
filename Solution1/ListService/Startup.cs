@@ -35,11 +35,33 @@ namespace ListService
             services.AddControllers();
             
             services.AddTransient<IBuildingRepository, BuildingRepository>();
+            
             services.AddDbContextPool<BuildingDbContext>(
 options => options.UseSqlServer(_config.GetConnectionString("Constr")));
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1.0", new OpenApiInfo { Title = "ListService", Version = "1.0" });
+            });
+            var symmetricSecurityKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(_config["Jwt:Key"]));
+            services.AddAuthentication(x =>
+            {
+                x.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;
+                x.DefaultChallengeScheme = JwtBearerDefaults.AuthenticationScheme;
+                x.DefaultSignInScheme = JwtBearerDefaults.AuthenticationScheme;
+            }
+            )
+            .AddJwtBearer(JwtBearerDefaults.AuthenticationScheme, x => {
+                x.TokenValidationParameters = new TokenValidationParameters
+                {
+                    ValidateIssuer = true,
+                    ValidateAudience = true,
+                    ValidateLifetime = true,
+                    ValidateIssuerSigningKey = true,
+                    ValidIssuer = _config["Jwt:Issuer"],
+                    ValidAudience = _config["Jwt:Issuer"],
+                    IssuerSigningKey = symmetricSecurityKey
+
+                };
             });
         }
 
@@ -52,6 +74,7 @@ options => options.UseSqlServer(_config.GetConnectionString("Constr")));
             }
             loggerFactory.AddLog4Net();
             app.UseSwagger();
+            //app.UseAuthentication();
             app.UseSwaggerUI(s =>
             {
                 s.SwaggerEndpoint("/swagger/v1.0/swagger.json", "ListService");
@@ -60,7 +83,7 @@ options => options.UseSqlServer(_config.GetConnectionString("Constr")));
             app.UseHttpsRedirection();
 
             app.UseRouting();
-            //app.UseAuthentication();
+            app.UseAuthentication();
 
             app.UseAuthorization();
 

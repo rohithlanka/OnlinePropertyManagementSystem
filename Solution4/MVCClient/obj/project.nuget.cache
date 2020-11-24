@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PL1cxrMu0sjGGPSpGv1Rj5pGrOxS2ClM2jn5yF4+cMDcKO3TWjl3+FqXHoxaEvTBSGzsDN2IXTI9W6KgrMfFvw==",
+  "dgSpecHash": "qBTJn72rc7EbGT2BzBC2b4ex1VnRozFfbPLSOvaBKq5RzybmIJeh5We9p26+xTxwndlP8yA1LwjuRRspxc2F0g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sairo\\source\\repos\\Solution4\\MVCClient\\MVCClient.csproj",
+  "projectFilePath": "C:\\Users\\sairo\\source\\repos\\OnlinePropertyManagementSystem\\Solution4\\MVCClient\\MVCClient.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sairo\\.nuget\\packages\\log4net\\2.0.12\\log4net.2.0.12.nupkg.sha512",
     "C:\\Users\\sairo\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
